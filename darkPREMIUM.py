@@ -200,7 +200,7 @@ def pilih():
                         else:
                             if zedd == '6':
                                 os.system('rm -rf login.txt')
-				os.system('xdg-open https://m.facebook.com/rizz.magizz')
+				os.system('xdg-open https://m.facebook.com/sobur.vansnyaexalt')
                                 keluar()
                             else:
                                 if zedd == '0':
